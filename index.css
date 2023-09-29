@@ -62,10 +62,10 @@
 
 .login {
   padding: 0 20px;
-  cursor: pointer
+  cursor: pointer;
 }
 
-.filter{
+.filter {
   display: flex;
 }
 
@@ -73,6 +73,6 @@
   margin: 10px;
 }
 
-.search > button{
+.search > button {
   cursor: pointer;
 }
