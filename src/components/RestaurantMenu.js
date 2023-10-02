@@ -17,14 +17,16 @@ const RestaurantMenu = () => {
 
   console.log(itemCards);
   return (
-    <div className="menu">
-      <h1>{name}</h1>
-      <h3>{cuisines.join(", ")}</h3>
-      <h3>{costForTwoMessage}</h3>
-      <h2>Menu</h2>
-      <ul>
+    <div className="m-4 p-4">
+      <h1 className="font-bold text-lg">{name}</h1>
+      <h3 className="text-sm">{cuisines.join(", ")}</h3>
+      <h3 className="text-sm">{costForTwoMessage}</h3>
+      <br className="dott"/>
+      <h2 className="font-bold text-lg">Menu</h2>
+      <ul className="">
         {itemCards.map((item) => (
-          <li key={item.card.info.id}>
+          <li className="p-4 border border-t-b-solid border-gray"
+            key={item.card.info.id}>
             {item.card.info.name} - {" Rs. "}
             {item.card.info.defaultPrice / 100 || item.card.info.price / 100}
           </li>

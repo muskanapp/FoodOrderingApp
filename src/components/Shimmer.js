@@ -1,16 +1,16 @@
 const Shimmer = () => {
   return (
-    <div className="shimmer-container">
-      <div className="shimmer-card">Card</div>
-      <div className="shimmer-card">Card</div>
-      <div className="shimmer-card">Card</div>
-      <div className="shimmer-card">Card</div>
-      <div className="shimmer-card">Card</div>
-      <div className="shimmer-card">Card</div>
-      <div className="shimmer-card">Card</div>
-      <div className="shimmer-card">Card</div>
-      <div className="shimmer-card">Card</div>
-      <div className="shimmer-card">Card</div>
+    <div className="flex flex-wrap">
+      <div className="m-20 w-[250px] h-[400px] bg-gray-50 rounded-lg"></div>
+      <div className="m-20 w-[250px] h-[400px] bg-gray-50 rounded-lg"></div>
+      <div className="m-20 w-[250px] h-[400px] bg-gray-50 rounded-lg"></div>
+      <div className="m-20 w-[250px] h-[400px] bg-gray-50 rounded-lg"></div>
+      <div className="m-20 w-[250px] h-[400px] bg-gray-50 rounded-lg"></div>
+      <div className="m-20 w-[250px] h-[400px] bg-gray-50 rounded-lg"></div>
+      <div className="m-20 w-[250px] h-[400px] bg-gray-50 rounded-lg"></div>
+      <div className="m-20 w-[250px] h-[400px] bg-gray-50 rounded-lg"></div>
+      <div className="m-20 w-[250px] h-[400px] bg-gray-50 rounded-lg"></div>
+      <div className="m-20 w-[250px] h-[400px] bg-gray-50 rounded-lg"></div>
     </div>
   );
 };
