@@ -1,5 +1,10 @@
+import User from "./User";
+
 const About = () => {
-  return <h1>This is a food ordering app</h1>;
+  return <div>
+            <h1>About</h1>
+            <User />
+        </div>
 };
 
 export default About;
