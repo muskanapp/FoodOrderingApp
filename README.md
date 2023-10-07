@@ -13,3 +13,11 @@ Footer
 - Links
 - Address
 - Contact
+
+# Redux toolkit
+- Install @reduxjs/toolkit and react-redux
+- Build our redux store
+- Connect store to app
+- Create cart slice
+- Dispatch action when add button is clicked
+- Selector to subscribe to store
