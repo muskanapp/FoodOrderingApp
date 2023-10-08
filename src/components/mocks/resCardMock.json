@@ -1,0 +1,94 @@
+{
+    "info": {
+        "id": "7203",
+        "name": "Taj Mahal-Abids",
+        "cloudinaryImageId": "xtxi8kws7lmnwfardw0b",
+        "locality": "Abids Road",
+        "areaName": "Koti",
+        "costForTwo": "₹300 for two",
+        "cuisines": [
+            "North Indian",
+            "Chinese",
+            "South Indian"
+        ],
+        "avgRating": 4.4,
+        "veg": true,
+        "feeDetails": {
+            "restaurantId": "7203",
+            "fees": [
+                {
+                    "name": "BASE_DISTANCE",
+                    "fee": 3200
+                },
+                {
+                    "name": "BASE_TIME"
+                },
+                {
+                    "name": "ANCILLARY_SURGE_FEE"
+                }
+            ],
+            "totalFee": 3200
+        },
+        "parentId": "924",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "10K+",
+        "sla": {
+            "deliveryTime": 30,
+            "lastMileTravel": 1.7,
+            "serviceability": "SERVICEABLE",
+            "slaString": "30 mins",
+            "lastMileTravelString": "1.7 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2023-10-07 23:00:00",
+            "opened": true
+        },
+        "badges": {
+            "imageBadges": [
+                {
+                    "imageId": "v1695133679/badges/Pure_Veg111.png",
+                    "description": "pureveg"
+                }
+            ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {
+                    "badgeObject": [
+                        {
+                            "attributes": {
+                                "description": "pureveg",
+                                "imageId": "v1695133679/badges/Pure_Veg111.png"
+                            }
+                        }
+                    ]
+                },
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "30% OFF",
+            "subHeader": "UPTO ₹75"
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+        "link": "https://www.swiggy.com/restaurants/taj-mahal-abids-abids-road-koti-hyderabad-7203",
+        "type": "WEBLINK"
+    }
+}

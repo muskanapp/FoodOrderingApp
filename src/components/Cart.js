@@ -35,6 +35,7 @@ const Cart = () => {
             <div
               key={item.card.info.id}
               className="p-2 m-2 border-b-2 border-gray-200 text-left flex justify-between"
+              data-testid="foodItems"
             >
               <div className="w-9/12">
                 <div className="py-2">
