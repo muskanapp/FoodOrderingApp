@@ -21,3 +21,6 @@ Footer
 - Create cart slice
 - Dispatch action when add button is clicked
 - Selector to subscribe to store
+
+# Live link
+https://food-delivery-app-cc285.web.app/
