@@ -1,5 +1,3 @@
-# Namaste React
-
 # Food ordering app
 Header 
 - Logo
